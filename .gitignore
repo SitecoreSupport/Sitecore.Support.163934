@@ -5,3 +5,7 @@ src/Sitecore.Support.163934/obj/
 *.pubxml
 *.user
 *.suo
+
+#Manually added ignores
+.editorconfig
+
